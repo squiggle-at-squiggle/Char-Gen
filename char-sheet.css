@@ -1,0 +1,30 @@
+
+/* The box all ability boxes reside in */
+.abilities {
+    border: 1px solid black;
+}
+
+/* The box for an idividual ability (score, mod, and skills) */
+.ability {
+    border: 1px solid black;
+}
+
+/* The box for an ability score */
+.abl-score {
+    border: 1px solid black;
+}
+
+/* The box for an ability mod */
+.abl-mod {
+    border: 1px solid black;
+}
+
+/* The div containing the list of skills associated with an ability */
+.abl-skills {
+    border: 1px solid black;   
+}
+
+/* The list containing skills associate with an ability */
+.skill-list {
+    list-style-type: none;
+}
